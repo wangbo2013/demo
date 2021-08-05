@@ -33,5 +33,6 @@ public class NioFileChannel01 {
 
         // 关闭输出流
         fileOutputStream.close();
+
     }
 }
